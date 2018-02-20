@@ -1,5 +1,24 @@
-# landing pages
+# README
 
-imposible de lie l'apps a heroku je narive pas a faire un run rails db:migrate et de rails db:migrate non plus,
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-sinon l'app fonctionne en local mais il ny a pas de css.
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
